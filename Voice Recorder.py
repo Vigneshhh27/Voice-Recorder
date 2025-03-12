@@ -99,6 +99,4 @@ l1.grid(column=2, row=3,padx=0,pady=5)
 window.mainloop()
 
 
-//End of Code
 
-//Output:
